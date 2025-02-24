@@ -1,0 +1,13 @@
+model:
+  model_path: "model/model.joblib"
+  n_features: 10
+security:
+  jwt_secret: "default-secret"
+  jwt_algorithm: "HS256"
+  token_expire_minutes: 60
+allowed_roles:
+  - "admin"
+  - "user"
+rate_limit: "100/minute"
+nan_replacement: 0.0
+enable_auth: true

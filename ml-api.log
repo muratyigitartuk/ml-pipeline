@@ -1,0 +1,739 @@
+2025-02-21 14:34:21,718 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 14:34:26,719 - ml-api - ERROR - Model loading failed (attempt 2/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 14:34:36,720 - ml-api - ERROR - Model loading failed (attempt 3/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 14:34:36,720 - ml-api - CRITICAL - Failed to load model after 3 attempts
+2025-02-21 14:34:36,720 - ml-api - CRITICAL - Fatal error during application startup: Failed to load model after multiple attempts
+2025-02-21 14:35:49,922 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 14:35:54,923 - ml-api - ERROR - Model loading failed (attempt 2/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 14:36:04,924 - ml-api - ERROR - Model loading failed (attempt 3/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 14:36:04,924 - ml-api - CRITICAL - Failed to load model after 3 attempts
+2025-02-21 14:36:04,925 - ml-api - CRITICAL - Fatal error during application startup: Failed to load model after multiple attempts
+2025-02-21 15:01:00,212 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 15:01:05,213 - ml-api - ERROR - Model loading failed (attempt 2/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 15:01:15,214 - ml-api - ERROR - Model loading failed (attempt 3/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 15:01:15,214 - ml-api - CRITICAL - Failed to load model after 3 attempts
+2025-02-21 15:01:15,214 - ml-api - CRITICAL - Fatal error during application startup: Failed to load model after multiple attempts
+2025-02-21 15:32:36,742 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 15:32:41,743 - ml-api - ERROR - Model loading failed (attempt 2/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 15:32:51,744 - ml-api - ERROR - Model loading failed (attempt 3/3): [Errno 2] No such file or directory: 'model/model.joblib'
+2025-02-21 15:32:51,744 - ml-api - CRITICAL - Failed to load model after 3 attempts
+2025-02-21 15:32:51,744 - ml-api - CRITICAL - Fatal error during application startup: Failed to load model after multiple attempts
+2025-02-21 15:43:59,873 - ml-api - CRITICAL - Configuration error: 1 validation error for AppConfig
+rate_limit
+  Input should be a valid string [type=string_type, input_value=100, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-02-21 15:46:24,030 - ml-api - CRITICAL - Configuration error: 1 validation error for AppConfig
+rate_limit
+  Input should be a valid string [type=string_type, input_value=100, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-02-21 15:49:27,177 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 15:49:32,178 - ml-api - ERROR - Model loading failed (attempt 2/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 15:49:42,179 - ml-api - ERROR - Model loading failed (attempt 3/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 15:49:42,179 - ml-api - CRITICAL - Failed to load model after 3 attempts
+2025-02-21 15:49:42,179 - ml-api - CRITICAL - Fatal error during application startup: Failed to load model after multiple attempts
+2025-02-21 15:56:53,384 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 15:56:58,385 - ml-api - ERROR - Model loading failed (attempt 2/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 15:57:08,386 - ml-api - ERROR - Model loading failed (attempt 3/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 15:57:08,386 - ml-api - CRITICAL - Failed to load model after 3 attempts
+2025-02-21 15:57:08,386 - ml-api - CRITICAL - Fatal error during application startup: Failed to load model after multiple attempts
+2025-02-21 15:59:02,566 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 15:59:07,567 - ml-api - ERROR - Model loading failed (attempt 2/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 15:59:17,567 - ml-api - ERROR - Model loading failed (attempt 3/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 15:59:17,567 - ml-api - CRITICAL - Failed to load model after 3 attempts
+2025-02-21 15:59:17,567 - ml-api - CRITICAL - Fatal error during application startup: Failed to load model after multiple attempts
+2025-02-21 16:00:43,237 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 16:00:48,238 - ml-api - ERROR - Model loading failed (attempt 2/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 16:00:53,705 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 16:01:48,638 - ml-api - ERROR - Model loading failed (attempt 1/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 16:01:53,638 - ml-api - ERROR - Model loading failed (attempt 2/3): [Errno 2] No such file or directory: '/absolute/path/to/model/model.joblib'
+2025-02-21 16:26:50,173 - ml-api - ERROR - Model loading failed (attempt 1/3): 
+2025-02-21 16:26:55,174 - ml-api - ERROR - Model loading failed (attempt 2/3): 
+2025-02-21 16:27:05,175 - ml-api - ERROR - Model loading failed (attempt 3/3): 
+2025-02-21 16:27:05,175 - ml-api - CRITICAL - Failed to load model after 3 attempts
+2025-02-21 16:27:05,175 - ml-api - CRITICAL - Fatal error during application startup: Failed to load model after multiple attempts
+2025-02-21 18:19:00,972 - ml-api - [CRITICAL] - Configuration error: 2 validation errors for AppConfig
+model
+  Field required [type=missing, input_value={'model_path': 'C:\\Users..., 'token_expiry': 3600}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+security
+  Field required [type=missing, input_value={'model_path': 'C:\\Users..., 'token_expiry': 3600}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-02-21 18:19:25,250 - ml-api - [CRITICAL] - Configuration error: 2 validation errors for AppConfig
+model
+  Field required [type=missing, input_value={'model_path': 'C:\\Users..., 'token_expiry': 3600}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+security
+  Field required [type=missing, input_value={'model_path': 'C:\\Users..., 'token_expiry': 3600}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-02-21 18:23:12,838 - ml-api - [CRITICAL] - Configuration error: 1 validation error for AppConfig
+security
+  Field required [type=missing, input_value={'allowed_roles': ['admin...max_value': 1000000.0}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-02-21 18:24:43,929 - ml-api - [CRITICAL] - Configuration error: 1 validation error for AppConfig
+security
+  Field required [type=missing, input_value={'allowed_roles': ['admin...max_value': 1000000.0}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-02-21 18:25:02,571 - ml-api - [CRITICAL] - Configuration error: 2 validation errors for AppConfig
+model
+  Field required [type=missing, input_value={'model_path': 'C:\\Users..., 'token_expiry': 3600}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+security
+  Field required [type=missing, input_value={'model_path': 'C:\\Users..., 'token_expiry': 3600}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-02-21 18:25:26,598 - ml-api - [ERROR] - Model loading failed (attempt 1/3): 
+2025-02-21 18:25:31,599 - ml-api - [ERROR] - Model loading failed (attempt 2/3): 
+2025-02-21 18:25:41,599 - ml-api - [ERROR] - Model loading failed (attempt 3/3): 
+2025-02-21 18:25:41,600 - ml-api - [CRITICAL] - Application startup error: Failed to load model after all retries
+2025-02-21 18:29:05,604 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:29:05,604 - ml-api - [ERROR] - Model loading failed (attempt 1/3): KeyError: 102
+2025-02-21 18:29:10,604 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:29:10,605 - ml-api - [ERROR] - Model loading failed (attempt 2/3): KeyError: 102
+2025-02-21 18:29:25,268 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:29:25,268 - ml-api - [ERROR] - Model loading failed (attempt 1/3): KeyError: 102
+2025-02-21 18:29:30,269 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:29:30,269 - ml-api - [ERROR] - Model loading failed (attempt 2/3): KeyError: 102
+2025-02-21 18:29:40,270 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:29:40,271 - ml-api - [ERROR] - Model loading failed (attempt 3/3): KeyError: 102
+2025-02-21 18:29:40,271 - ml-api - [CRITICAL] - Application startup error: Failed to load model after all retries
+2025-02-21 18:40:27,460 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:40:27,460 - ml-api - [ERROR] - Model loading failed (attempt 1/3): KeyError: 102
+2025-02-21 18:40:32,460 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:40:32,460 - ml-api - [ERROR] - Model loading failed (attempt 2/3): KeyError: 102
+2025-02-21 18:40:42,461 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:40:42,461 - ml-api - [ERROR] - Model loading failed (attempt 3/3): KeyError: 102
+2025-02-21 18:40:42,461 - ml-api - [CRITICAL] - Application startup error: Failed to load model after all retries
+2025-02-21 18:47:35,711 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:47:35,711 - ml-api - [ERROR] - Model loading failed (attempt 1/3): EOFError: 
+2025-02-21 18:47:40,711 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:47:40,711 - ml-api - [ERROR] - Model loading failed (attempt 2/3): EOFError: 
+2025-02-21 18:47:50,711 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:47:50,712 - ml-api - [ERROR] - Model loading failed (attempt 3/3): EOFError: 
+2025-02-21 18:47:50,712 - ml-api - [CRITICAL] - Application startup error: Failed to load model after all retries
+2025-02-21 18:50:46,406 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:50:46,406 - ml-api - [ERROR] - Model loading failed (attempt 1/3): EOFError: 
+2025-02-21 18:50:51,406 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:50:51,407 - ml-api - [ERROR] - Model loading failed (attempt 2/3): EOFError: 
+2025-02-21 18:51:01,407 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 18:51:01,407 - ml-api - [ERROR] - Model loading failed (attempt 3/3): EOFError: 
+2025-02-21 18:51:01,407 - ml-api - [CRITICAL] - Application startup error: Failed to load model after all retries
+2025-02-21 19:04:14,416 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 19:04:14,416 - ml-api - [ERROR] - Model loading failed (attempt 1/3): EOFError: 
+2025-02-21 19:04:19,417 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 19:04:19,417 - ml-api - [ERROR] - Model loading failed (attempt 2/3): EOFError: 
+2025-02-21 19:04:29,418 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 19:04:29,418 - ml-api - [ERROR] - Model loading failed (attempt 3/3): EOFError: 
+2025-02-21 19:04:29,419 - ml-api - [CRITICAL] - Application startup error: Failed to load model after all retries
+2025-02-21 23:57:04,353 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 23:57:04,353 - ml-api - [ERROR] - Model loading failed (attempt 1/3): EOFError: 
+2025-02-21 23:57:09,354 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 23:57:09,354 - ml-api - [ERROR] - Model loading failed (attempt 2/3): EOFError: 
+2025-02-21 23:57:19,354 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-21 23:57:19,355 - ml-api - [ERROR] - Model loading failed (attempt 3/3): EOFError: 
+2025-02-21 23:57:19,355 - ml-api - [CRITICAL] - Application startup error: Failed to load model after all retries
+2025-02-22 00:00:27,213 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 00:00:27,674 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 00:00:27,697 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 00:00:27,697 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 00:05:59,396 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 00:05:59,871 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 00:05:59,881 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 00:05:59,881 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 00:08:03,904 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-22 00:08:03,905 - werkzeug - [INFO] - 127.0.0.1 - - [22/Feb/2025 00:08:03] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-22 00:08:03,982 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-22 00:08:03,982 - werkzeug - [INFO] - 127.0.0.1 - - [22/Feb/2025 00:08:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 00:08:13,963 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-22 00:08:13,963 - werkzeug - [INFO] - 192.168.178.29 - - [22/Feb/2025 00:08:13] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-22 00:08:14,034 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-22 00:08:14,035 - werkzeug - [INFO] - 192.168.178.29 - - [22/Feb/2025 00:08:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 00:09:57,048 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 00:09:57,477 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 00:09:57,487 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 00:09:57,487 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 01:06:44,006 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 01:06:44,420 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 01:06:44,429 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 01:06:44,429 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 15:19:41,139 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 15:19:45,566 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 15:19:45,587 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 15:19:45,587 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 15:20:07,783 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-22 15:20:07,784 - werkzeug - [INFO] - 192.168.178.29 - - [22/Feb/2025 15:20:07] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-22 15:20:07,859 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-22 15:20:07,859 - werkzeug - [INFO] - 192.168.178.29 - - [22/Feb/2025 15:20:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 15:20:11,172 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-22 15:20:11,173 - werkzeug - [INFO] - 192.168.178.29 - - [22/Feb/2025 15:20:11] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-22 15:21:22,885 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-22 15:21:22,885 - werkzeug - [INFO] - 127.0.0.1 - - [22/Feb/2025 15:21:22] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-22 15:21:22,955 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-22 15:21:22,955 - werkzeug - [INFO] - 127.0.0.1 - - [22/Feb/2025 15:21:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 15:23:14,443 - werkzeug - [INFO] - 127.0.0.1 - - [22/Feb/2025 15:23:14] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-22 15:23:25,540 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-22 15:23:25,541 - werkzeug - [INFO] - 127.0.0.1 - - [22/Feb/2025 15:23:25] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-22 15:24:22,272 - werkzeug - [INFO] - 127.0.0.1 - - [22/Feb/2025 15:24:22] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-22 15:26:57,487 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 15:26:57,905 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 15:26:57,915 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 15:26:57,915 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 15:27:04,433 - werkzeug - [INFO] - 127.0.0.1 - - [22/Feb/2025 15:27:04] "GET / HTTP/1.1" 200 -
+2025-02-22 15:59:06,567 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 15:59:06,986 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 15:59:06,995 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 15:59:06,995 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 17:31:38,143 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 17:31:38,646 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 17:31:38,661 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 17:31:38,661 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 17:31:47,717 - werkzeug - [INFO] - 127.0.0.1 - - [22/Feb/2025 17:31:47] "GET / HTTP/1.1" 200 -
+2025-02-22 20:14:56,237 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 20:14:56,709 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 20:14:56,718 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 20:14:56,718 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 21:21:07,941 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 21:21:08,423 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 21:21:08,432 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 21:21:08,432 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 21:23:55,683 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 21:23:56,091 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-22 21:23:56,101 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-22 21:23:56,101 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-22 21:23:58,616 - werkzeug - [INFO] - 192.168.178.29 - - [22/Feb/2025 21:23:58] "GET / HTTP/1.1" 200 -
+2025-02-23 00:09:50,750 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 00:09:53,566 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 00:09:53,585 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 00:09:53,585 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 00:14:50,833 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 00:14:51,284 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 00:14:51,294 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 00:14:51,294 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 00:42:54,880 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 00:42:55,304 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 00:42:55,315 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 00:42:55,315 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 00:43:07,241 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 00:43:07,664 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 00:43:07,675 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 00:43:07,675 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 01:18:45,818 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 01:18:46,228 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 01:18:46,238 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 01:18:46,239 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 01:18:49,409 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 01:18:49] "GET / HTTP/1.1" 200 -
+2025-02-23 02:05:34,351 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 02:05:34,810 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 02:05:34,821 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 02:05:34,821 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 02:18:38,318 - ml-api - [INFO] - Attempting to load model from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 02:18:38,717 - ml-api - [INFO] - Model loaded successfully from: C:\Users\mur4t\Desktop\ml-pipeline\model\model.joblib
+2025-02-23 02:18:38,726 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 02:18:38,726 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 02:18:40,463 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 02:18:40] "GET / HTTP/1.1" 200 -
+2025-02-23 02:31:32,114 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 02:31:32,548 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 02:31:32,558 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 02:31:32,558 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 02:31:36,012 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 02:31:36] "GET / HTTP/1.1" 200 -
+2025-02-23 02:33:11,547 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 02:33:11,985 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 02:33:11,995 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 02:33:11,996 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 02:44:46,029 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 02:44:46,456 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 02:44:46,465 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 02:44:46,466 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 02:44:49,242 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 02:44:49] "GET / HTTP/1.1" 200 -
+2025-02-23 02:44:55,275 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 02:44:55] "GET / HTTP/1.1" 200 -
+2025-02-23 02:45:11,738 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 02:45:11] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 02:45:32,816 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 02:45:33,258 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 02:45:33,268 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 02:45:33,268 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 02:45:34,885 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 02:45:34,886 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 02:45:34] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 02:45:40,298 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 02:45:40,298 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 02:45:40] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 02:45:48,035 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 02:45:48,036 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 02:45:48] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 02:50:04,404 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 02:50:04,857 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 02:50:04,867 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 02:50:04,867 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 02:50:08,832 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 02:50:08] "GET / HTTP/1.1" 200 -
+2025-02-23 02:50:29,902 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 02:50:29] "GET / HTTP/1.1" 200 -
+2025-02-23 02:50:36,670 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 02:50:36,670 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 02:50:36] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 02:50:46,146 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 02:50:46] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:22,936 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 12:50:23,332 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 12:50:23,341 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 12:50:23,341 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 12:50:28,053 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:28] "GET / HTTP/1.1" 200 -
+2025-02-23 12:50:28,123 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:28] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:40,170 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:40] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:40,200 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:40] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:49,104 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:49] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:49,126 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:49] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:50,678 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:50] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:50,697 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:50] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:51,285 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:51] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:51,305 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:51] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:51,765 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:51] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:51,784 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:51] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:52,164 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:52] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:52,183 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:52] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:52,448 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:52] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:52,467 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:52] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:52,828 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:52] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:52,848 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:52] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:53,289 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:53] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:53,308 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:53] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:53,687 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:53] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:53,707 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:53] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:54,421 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:54] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:54,440 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:54] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:50:54,778 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:54] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 12:50:54,798 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:50:54] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 12:51:00,475 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 12:51:00,475 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:51:00] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 12:51:00,505 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 12:51:00] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 13:06:32,549 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 13:06:32,976 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 13:06:32,986 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 13:06:32,986 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 13:06:35,283 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 13:06:35] "GET / HTTP/1.1" 200 -
+2025-02-23 13:06:35,356 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 13:06:35] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 13:06:51,305 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 13:06:51,305 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 13:06:51] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 13:06:51,340 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 13:06:51] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 14:45:27,865 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 14:45:28,320 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 14:45:28,330 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 14:45:28,330 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 14:50:22,026 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 14:50:25,611 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 14:50:25,638 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 14:50:25,639 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 14:50:56,748 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 14:50:57,140 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 14:50:57,150 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 14:50:57,150 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 15:06:23,249 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 15:06:23,656 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 15:06:23,665 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 15:06:23,665 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 15:06:26,527 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:26] "GET / HTTP/1.1" 200 -
+2025-02-23 15:06:26,599 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:26] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 15:06:31,446 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:31] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 15:06:31,475 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:31] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 15:06:37,692 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 15:06:37,692 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:37] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 15:06:38,029 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 15:06:38,030 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:38] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 15:06:38,060 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:38] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 15:06:46,777 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 15:06:46,777 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:46] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 15:06:47,592 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 15:06:47,592 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:47] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 15:06:47,621 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 15:06:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 15:56:36,554 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 15:56:37,020 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 15:56:37,031 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 15:56:37,031 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 16:00:28,366 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 16:00:28,761 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 16:00:28,770 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 16:00:28,770 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 16:00:30,637 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 16:00:30] "GET / HTTP/1.1" 200 -
+2025-02-23 16:00:30,704 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 16:00:30] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 16:00:35,486 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 16:00:35] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 16:00:36,312 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 16:00:36] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 16:00:36,341 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 16:00:36] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 16:00:50,207 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 16:00:50,207 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 16:00:50] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 16:00:50,362 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 16:00:50,362 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 16:00:50] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 16:00:50,397 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 16:00:50] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 16:31:44,987 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 16:31:45,415 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 16:31:45,426 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 16:31:45,426 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 19:13:11,610 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 19:13:12,045 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 19:13:12,055 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 19:13:12,055 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 20:26:12,999 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 20:26:13,420 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 20:26:13,430 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 20:26:13,430 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 20:26:17,292 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 20:26:17] "GET / HTTP/1.1" 200 -
+2025-02-23 20:26:17,361 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 20:26:17] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 20:26:27,457 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 20:26:27] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 20:26:27,490 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 20:26:27] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 20:26:32,206 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 20:26:32,206 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 20:26:32] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 20:26:32,326 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-23 20:26:32,326 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 20:26:32] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-23 20:26:32,357 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 20:26:32] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 20:47:46,990 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 20:47:47,427 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 20:47:47,437 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 20:47:47,437 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 21:05:19 - ML_API - INFO - Loading model from model/model.joblib
+2025-02-23 21:05:19 - ML_API - INFO - Model loaded successfully
+2025-02-23 21:07:34,652 - ml-api - [CRITICAL] - Configuration error: 1 validation error for AppConfig
+rate_limit
+  Input should be a valid string [type=string_type, input_value=100, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type. Please ensure 'model' and 'security' sections are correctly defined in config.yaml
+2025-02-23 21:08:42,002 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:08:42,458 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:08:42,468 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 21:08:42,468 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 21:08:46,396 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:08:46] "GET / HTTP/1.1" 200 -
+2025-02-23 21:08:46,465 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:08:46] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 21:08:53,084 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 21:08:53] "GET / HTTP/1.1" 200 -
+2025-02-23 21:08:53,157 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 21:08:53] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 21:09:03,456 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:09:03,862 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:09:03,871 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:09:03,872 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:11:18,966 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:11:19,403 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:11:19,414 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 21:11:19,414 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 21:11:37,159 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:11:37,561 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:11:37,572 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:11:37,573 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:12:01,806 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:12:02,221 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:12:02,231 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 21:12:02,231 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 21:12:03,860 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:12:03] "GET / HTTP/1.1" 200 -
+2025-02-23 21:12:03,933 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:12:03] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 21:12:26,840 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:12:26] "[32mGET /apidocs HTTP/1.1[0m" 308 -
+2025-02-23 21:12:26,896 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:12:26] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-23 21:12:26,970 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:12:26] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2025-02-23 21:12:27,023 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:12:27] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2025-02-23 21:12:27,102 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:12:27] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2025-02-23 21:12:27,117 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:12:27] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2025-02-23 21:12:27,189 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:12:27] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2025-02-23 21:16:31,786 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:16:32,228 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:16:32,238 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 21:16:32,238 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 21:16:34,717 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:16:34] "GET / HTTP/1.1" 200 -
+2025-02-23 21:16:34,787 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:16:34] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 21:16:39,783 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:16:39] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-23 21:16:39,844 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:16:39] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-23 21:16:39,851 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:16:39] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-23 21:16:39,852 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:16:39] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-23 21:16:39,853 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:16:39] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-23 21:18:59,955 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:18:59] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-23 21:19:00,038 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:19:00] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-23 21:19:00,039 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:19:00] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-23 21:19:00,041 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:19:00] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-23 21:19:00,042 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:19:00] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-23 21:19:04,517 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:19:04] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-23 21:19:04,613 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:19:04] "GET /flasgger_static/swagger-ui.css.map HTTP/1.1" 200 -
+2025-02-23 21:19:04,619 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:19:04] "GET /flasgger_static/swagger-ui-bundle.js.map HTTP/1.1" 200 -
+2025-02-23 21:19:04,619 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:19:04] "GET /flasgger_static/swagger-ui-standalone-preset.js.map HTTP/1.1" 200 -
+2025-02-23 21:27:30,417 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:27:30,847 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:27:30,857 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 21:27:30,857 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 21:27:32,625 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:27:32] "GET / HTTP/1.1" 200 -
+2025-02-23 21:27:32,696 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:27:32] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 21:27:49,219 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:27:49] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-23 21:27:49,286 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:27:49] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-23 21:27:49,292 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:27:49] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-23 21:27:49,293 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:27:49] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-23 21:27:49,293 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:27:49] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-23 21:27:49,466 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:27:49] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-23 21:28:00,520 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:28:00] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 21:28:43,637 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:28:43] "[31m[1mPOST /api/v1/predict HTTP/1.1[0m" 401 -
+2025-02-23 21:33:06,395 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:33:06,799 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:33:06,809 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:33:06,810 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:45:17,948 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:45:18,366 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:45:18,376 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:45:18,377 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:45:25,097 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-23 21:45:25,549 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-23 21:45:25,560 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-23 21:45:25,560 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-23 21:45:30,370 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 21:45:30] "GET / HTTP/1.1" 200 -
+2025-02-23 21:45:30,439 - werkzeug - [INFO] - 192.168.178.29 - - [23/Feb/2025 21:45:30] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-23 21:45:36,675 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:45:36] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-23 21:45:36,798 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:45:36] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-23 21:45:36,799 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:45:36] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-23 21:45:36,800 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:45:36] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-23 21:45:36,801 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:45:36] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-23 21:45:36,894 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:45:36] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-23 21:46:01,571 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:46:01] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 21:48:30,696 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:48:30] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-23 21:48:30,719 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:48:30] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-23 21:48:30,721 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:48:30] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-23 21:48:30,723 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:48:30] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-23 21:48:30,724 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:48:30] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-23 21:48:30,775 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:48:30] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-23 21:48:30,779 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:48:30] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+2025-02-23 21:49:14,773 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:49:14] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-23 21:49:53,781 - werkzeug - [INFO] - 127.0.0.1 - - [23/Feb/2025 21:49:53] "[31m[1mPOST /api/v1/predict HTTP/1.1[0m" 401 -
+2025-02-24 00:07:16,235 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 00:07:19,621 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 00:07:19,647 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-24 00:07:19,647 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-24 00:07:21,956 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 00:07:21] "GET / HTTP/1.1" 200 -
+2025-02-24 00:07:22,027 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 00:07:22] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 00:09:31,619 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 00:09:32,034 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 00:09:32,044 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-24 00:09:32,044 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-24 00:09:33,627 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:09:33] "GET / HTTP/1.1" 200 -
+2025-02-24 00:09:33,697 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:09:33] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 00:09:39,559 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:09:39] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-24 00:09:39,720 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:09:39] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-24 00:09:39,733 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:09:39] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-24 00:09:39,756 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:09:39] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-24 00:09:39,790 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:09:39] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-24 00:09:40,143 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:09:40] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-24 00:09:45,945 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:09:45] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-24 00:10:01,706 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:10:01] "[31m[1mPOST /api/v1/predict HTTP/1.1[0m" 401 -
+2025-02-24 00:10:03,135 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 00:10:03] "[31m[1mPOST /api/v1/predict HTTP/1.1[0m" 401 -
+2025-02-24 00:13:06,642 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 00:13:07,048 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 00:13:07,058 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 00:13:07,058 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 12:10:22,913 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 12:10:26,782 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 12:10:26,802 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-24 12:10:26,803 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-24 12:10:36,633 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:10:36] "GET / HTTP/1.1" 200 -
+2025-02-24 12:10:36,709 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:10:36] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 12:10:52,640 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:10:52] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-24 12:10:52,811 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:10:52] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-24 12:10:52,849 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:10:52] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-24 12:10:52,869 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:10:52] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-24 12:10:53,178 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:10:53] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-24 12:10:53,250 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:10:53] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-24 12:11:17,237 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:11:17] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-24 12:11:54,666 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 12:11:54] "[31m[1mPOST /api/v1/predict HTTP/1.1[0m" 401 -
+2025-02-24 14:28:47,926 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 14:28:48,350 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 14:28:48,361 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-24 14:28:48,361 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-24 14:28:50,454 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:28:50] "GET / HTTP/1.1" 200 -
+2025-02-24 14:28:50,528 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:28:50] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 14:28:54,178 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:28:54] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-24 14:28:54,261 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:28:54] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2025-02-24 14:28:54,262 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:28:54] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2025-02-24 14:28:54,262 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:28:54] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2025-02-24 14:28:54,267 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:28:54] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2025-02-24 14:28:54,351 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:28:54] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-24 14:28:58,134 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:28:58] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-24 14:29:06,274 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:06] "[31m[1mPOST /api/v1/predict HTTP/1.1[0m" 401 -
+2025-02-24 14:29:16,225 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:16] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-24 14:29:16,273 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:16] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-24 14:29:16,274 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:16] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-24 14:29:16,283 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:16] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-24 14:29:16,283 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:16] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-24 14:29:16,357 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:16] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-24 14:29:18,255 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:18] "GET /api/v1/health HTTP/1.1" 200 -
+2025-02-24 14:29:18,297 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:18] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 14:29:22,073 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-24 14:29:22,073 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:22] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-24 14:29:22,643 - ml-api - [ERROR] - Request error (http_error): 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-24 14:29:22,644 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:22] "[31m[1mGET /api/v1/predict HTTP/1.1[0m" 405 -
+2025-02-24 14:29:22,681 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:29:22] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 14:30:12,446 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 14:30:12,880 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 14:30:12,889 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-24 14:30:12,889 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-24 14:30:14,999 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:14] "GET / HTTP/1.1" 200 -
+2025-02-24 14:30:15,073 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:15] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 14:30:18,994 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:18] "[32mGET /apidocs HTTP/1.1[0m" 308 -
+2025-02-24 14:30:19,006 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:19] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-24 14:30:19,090 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:19] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2025-02-24 14:30:19,090 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:19] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2025-02-24 14:30:19,091 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:19] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2025-02-24 14:30:19,092 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:19] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2025-02-24 14:30:19,215 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:19] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-24 14:30:19,228 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:30:19] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2025-02-24 14:30:37,221 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 14:30:37,670 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 14:30:37,679 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-24 14:30:37,680 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-24 14:30:47,300 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:30:47] "GET / HTTP/1.1" 200 -
+2025-02-24 14:30:47,370 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:30:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 14:30:50,633 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:30:50] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-24 14:30:50,713 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:30:50] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-24 14:30:50,715 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:30:50] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-24 14:30:50,716 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:30:50] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-24 14:30:50,718 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:30:50] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-24 14:30:50,788 - werkzeug - [INFO] - 127.0.0.1 - - [24/Feb/2025 14:30:50] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-24 14:32:12,267 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 14:32:12,701 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 14:32:12,712 - werkzeug - [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.29:5000
+2025-02-24 14:32:12,712 - werkzeug - [INFO] - [33mPress CTRL+C to quit[0m
+2025-02-24 14:32:14,233 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:14] "GET / HTTP/1.1" 200 -
+2025-02-24 14:32:14,306 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:14] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 14:32:17,832 - ml-api - [ERROR] - Request error (http_error): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-24 14:32:17,832 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:17] "[33mGET /APÝDOCS HTTP/1.1[0m" 404 -
+2025-02-24 14:32:17,870 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:17] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+2025-02-24 14:32:21,574 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:21] "GET /apidocs/ HTTP/1.1" 200 -
+2025-02-24 14:32:21,657 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:21] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-02-24 14:32:21,658 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:21] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-02-24 14:32:21,659 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:21] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-02-24 14:32:21,660 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:21] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-02-24 14:32:21,729 - werkzeug - [INFO] - 192.168.178.29 - - [24/Feb/2025 14:32:21] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-02-24 14:32:31,417 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 14:32:31,837 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
+2025-02-24 14:32:31,847 - ml-api - [INFO] - Attempting to load model from: model/model.joblib
+2025-02-24 14:32:31,847 - ml-api - [INFO] - Model loaded successfully from: model/model.joblib
