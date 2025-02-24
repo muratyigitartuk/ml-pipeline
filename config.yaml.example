@@ -1,0 +1,27 @@
+# Example configuration file for ML Pipeline API
+# Rename this to 'config.yaml' and update values for your environment
+
+model:
+  model_path: "path/to/your/model.joblib"  # Specify the path to your trained ML model
+  n_features: 10                           # Number of features expected by the model
+  # Optional: Define input validation bounds (uncomment if needed)
+  # input_validation:
+  #   min_value: -1000000
+  #   max_value: 1000000
+
+security:
+  jwt_secret: "your-secure-secret-here"    # Replace with a strong, unique secret for JWT
+  jwt_algorithm: "HS256"                   # JWT algorithm (default: HS256)
+  token_expire_minutes: 60                 # Token expiration time in minutes
+
+allowed_roles:                             # Roles allowed to access the predict endpoint
+  - "admin"
+  - "user"
+
+rate_limit: "100/minute"                   # API request rate limit (e.g., "100 per minute")
+nan_replacement: 0.0                       # Value to replace NaN inputs with
+enable_auth: true                          # Enable/disable authentication (true/false)
+
+# Optional: SSL configuration for HTTPS (uncomment and set paths if using SSL)
+# ssl_cert: "path/to/your/cert.pem"
+# ssl_key: "path/to/your/key.pem"
